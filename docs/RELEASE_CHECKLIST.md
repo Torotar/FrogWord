@@ -6,7 +6,7 @@
 2. `module.json5` module 名称、abilities 配置正确。
 3. `bundleName` 使用正式包名，不使用测试包名。
 4. `versionCode` 已递增。
-5. `versionName` 为 `1.0.0`。
+5. `versionName` 为 `1.5.3`。
 6. 应用图标、启动图标已替换为正式资源。
 7. `ohos.permission.INTERNET` 权限保留，并在隐私说明中解释用途。
 8. 文件选择若使用系统 Picker，通常不需要额外存储权限；以当前 SDK 文档和真机测试为准。

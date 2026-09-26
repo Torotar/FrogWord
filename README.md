@@ -1,10 +1,10 @@
-# FrogWord / 呱呱学英语
+# 呱呱单词
 
 中文 | [English](#english)
 
 ## 中文
 
-FrogWord（呱呱学英语）是一款基于 HarmonyOS Stage 模型和 ArkTS/ArkUI 开发的手机背单词应用。应用包名为 `com.torotar.wordcard`，当前版本为 `1.0.0`。
+呱呱单词是一款基于 HarmonyOS Stage 模型和 ArkTS/ArkUI 开发的手机背单词应用。应用包名为 `com.torotar.wordcard`，当前版本为 `1.5.3`。
 
 ### 功能
 
@@ -33,7 +33,7 @@ GitHub Release 提供 `entry-default-unsigned.hap`。该 HAP 未签名；安装�
 
 ## English
 
-FrogWord (呱呱学英语) is a mobile vocabulary learning app built with the HarmonyOS Stage model, ArkTS, and ArkUI. Its application bundle is `com.torotar.wordcard`, and the current version is `1.0.0`.
+呱呱单词 is a mobile vocabulary learning app built with the HarmonyOS Stage model, ArkTS, and ArkUI. Its application bundle is `com.torotar.wordcard`, and the current version is `1.5.3`.
 
 ### Features
 
