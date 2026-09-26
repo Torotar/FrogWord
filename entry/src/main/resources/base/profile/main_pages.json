@@ -1,0 +1,19 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/StudyPage",
+    "pages/ReviewPage",
+    "pages/WebDavSyncPage",
+    "pages/AiConfigPage",
+    "pages/SearchPage",
+    "pages/WordDetailPage",
+    "pages/WordBookManagePage",
+    "pages/WordBookDetailPage",
+    "pages/StudyPlanPage",
+    "pages/DebugDatabasePage",
+    "pages/StudyDurationPage",
+    "pages/ForgettingCoefficientPage",
+    "pages/MoreSettingsPage",
+    "pages/AboutPage"
+  ]
+}
